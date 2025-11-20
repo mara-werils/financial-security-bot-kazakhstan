@@ -1,4 +1,4 @@
-# 🛡️ Financial Security Telegram Bot for Kazakhstan
+#  Financial Security Telegram Bot for Kazakhstan
 
 A comprehensive Telegram bot that protects and educates users about financial scams, with special focus on Kazakhstan's banking ecosystem (Kaspi, Halyk, Jusan). Built with Python 3.9+ and python-telegram-bot.
 
