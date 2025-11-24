@@ -58,7 +58,7 @@ The Financial Security Bot is an educational Telegram bot designed specifically 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/mara-werils/financial-security-bot-kazakhstan.git
-   cd Finance_security_bot
+   cd .\financial-security-bot-kazakhstan\
    ```
 
 2. **Create a virtual environment (recommended)**
