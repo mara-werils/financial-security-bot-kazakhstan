@@ -74,11 +74,12 @@ The Financial Security Bot is an educational Telegram bot designed specifically 
 
 4. **Create `.env` file**
    ```bash
-   # Option 1: Copy from example (if .env.example exists)
-   cp .env.example .env
-   
-   # Option 2: Create manually
-   touch .env
+   BOT_TOKEN=#token goes here 
+   # Optional: Database Configuration  
+   DATABASE_URL=sqlite:///bot_database.db
+   # Optional: Admin Configuration
+   ADMIN_CHAT_ID=your_telegram_id_here
+
    ```
 
 5. **Configure environment variables**
