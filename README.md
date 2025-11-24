@@ -2,6 +2,17 @@
 
 A comprehensive Telegram bot that protects and educates users about financial scams, with special focus on Kazakhstan's banking ecosystem (Kaspi, Halyk, Jusan). Built with Python 3.9+ and python-telegram-bot.
 
+<div align="center">
+
+### 🎬 VIDEO TUTORIALS - CLICK TO WATCH
+
+| Installation Guide | Feature Demonstration |
+|:------------------:|:---------------------:|
+| [![How to install and setup the bot](https://img.youtube.com/vi/7wYXs3jmm1o/0.jpg)](https://youtu.be/7wYXs3jmm1o) | [![All bot features showcase](https://img.youtube.com/vi/ToX_7NR0zVs/0.jpg)](https://youtu.be/ToX_7NR0zVs) |
+| **Setup & Configuration** | **All Features Demo** |
+
+</div>
+
 ## Table of Contents
 
 1. [Project Description](#project-description)
